@@ -15,7 +15,7 @@
         "./module/main.js", "./module/text-input.js"
     ],
     "url": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/tree/main",
-    "manifest": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/refs/heads/main/module.json",
     "download": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/archive/refs/heads/main.zip",
     "readme": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/blob/main/README.md",
     "changelog": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/blob/main/CHANGELOG"
