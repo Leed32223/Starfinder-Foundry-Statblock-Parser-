@@ -31,3 +31,5 @@ battery (20 charges), club, credstick (150 credits)
 ## Issues
 
 If you have any issues or concerns, please don't hesitate to open an issue on the tracker https://gitlab.com/TimToxopeus/sfrpg-statblock-parser/-/issues or reach out to me on the Foundry discord server: Deepflame#0875.
+
+Created by TimToxopeus, Update by Leed3223
