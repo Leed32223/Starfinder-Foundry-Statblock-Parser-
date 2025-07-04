@@ -2,7 +2,7 @@
     "id": "sfrpg-statblock-parser",
     "title": "Starfinder Statblock Parser",
     "description": "A module to convert Starfinder NPC statblocks into Actors",
-    "authors": [{"name": "DeepFlame, Edit By Leed"}],
+    "authors": [{"name": "DeepFlame, Update By Leed"}],
     "version": "0.6.0",
     "compatibility": {"minimum": "12.324", "verified": "13.341"},
     "esmodules": [
