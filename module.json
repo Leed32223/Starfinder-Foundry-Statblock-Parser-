@@ -4,8 +4,8 @@
     "description": "A module to convert Starfinder NPC statblocks into Actors",
     "authors": [{"name": "DeepFlame, Edit By Leed"}],
     "version": "0.6.0",
-    "compatibility": {"minimum": "12.324", "verified": "13.341"},
-    }
+    "compatibility": {"minimum": "12.324", "verified": "13.341"}
+    },
     "esmodules": [
         "./module/main.js", "./module/text-input.js"
     ],
