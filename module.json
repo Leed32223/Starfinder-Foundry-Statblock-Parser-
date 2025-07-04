@@ -4,13 +4,12 @@
     "description": "A module to convert Starfinder NPC statblocks into Actors",
     "authors": [{"name": "DeepFlame, Edit By Leed"}],
     "version": "0.6.0",
-    "compatibility": {"minimum": "12.324", "verified": "13.341"}
-    },
+    "compatibility": {"minimum": "12.324", "verified": "13.341"},
     "esmodules": [
         "./module/main.js", "./module/text-input.js"
     ],
     "url": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/tree/main",
-    "manifest": "https://raw.githubusercontent.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/refs/heads/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/main/module.json",
     "download": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/archive/refs/heads/main.zip",
     "readme": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/blob/main/README.md",
     "changelog": "https://github.com/Leed32223/Starfinder-Foundry-Statblock-Parser-/blob/main/CHANGELOG"
